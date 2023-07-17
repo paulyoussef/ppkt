@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ## Experiments 
 1. [knowledge transfer](./notebooks/kt_bert.ipynb)
 2. [training data identification](./notebooks/ident.ipynb)
+
+## Paper
+https://aclanthology.org/2023.clinicalnlp-1.3/
